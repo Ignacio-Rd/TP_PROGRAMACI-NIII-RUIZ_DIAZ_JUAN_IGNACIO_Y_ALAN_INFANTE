@@ -1,11 +1,13 @@
-﻿# TP Integrador: Sistema de Consulta de Liquidaciones "Mis Tarjetas" 💳
+﻿# UTN FRH Tecnicatura Universitaria en P rogramación #
+# Programación III 2026 #
+# TP Integrador: Sistema de Consulta de Liquidaciones "Mis Tarjetas" 💳
 
-¡Bienvenido al Trabajo Práctico Integrador de las asignaturas **Programación II (C#)** y **Programación III (PHP)**! En este proyecto vas a trabajar en la integración de plataformas implementando un ecosistema donde una aplicación de escritorio y un portal web comparten la misma base de datos relacional.
+¡Bienvenido al Trabajo Práctico Integrador de la asignatura **Programación III**! En este proyecto vas a trabajar en la integración de plataformas implementando un ecosistema donde una aplicación de escritorio y un portal web comparten la misma base de datos relacional.
 
 ---
 
 ## 📌 Objetivo del Trabajo Práctico
-El objetivo es simular el circuito financiero real de la tarjeta **Progra3card**:
+El objetivo es aplicar la POO al simular el circuito financiero real de la tarjeta **Progra3card**:
 1. **Fase Administrativa (C# - Aplicación de Consola):** Los empleados de la entidad financiera emiten tarjetas registrando clientes y cargan los totales de las liquidaciones mensuales en la base de datos.
 2. **Fase del Cliente (PHP - Portal Web):** El titular de la tarjeta realiza su activación digital (*onboarding*) validando su identidad, ingresa con sus credenciales y consulta su última liquidación, además de poder revisar el historial de resúmenes anteriores.
 
@@ -38,7 +40,7 @@ En este repositorio vas a encontrar la estructura inicial para la pata web:
 
 ### 🛠️ ¿Qué tenés que programar?
 * **En PHP:** Deberás crear la lógica backend para el procesamiento del registro (`altas.php`), el inicio y control de sesiones (`ingreso.php`), y el panel interactivo del cliente (`resumen.php`) que realice los `JOIN` correspondientes para listar las liquidaciones.
-* **En C#:** Deberás estructurar una solución de consola que se conecte a MySQL (usando ADO.NET / MySQL Connector) y provea un menú secuencial para dar de alta clientes/tarjetas y emitir nuevas liquidaciones.
+* **En C#:** Deberás estructurar una solución de consola que se conecte a MySQL (usando MySQL Connector) y provea un menú secuencial para dar de alta clientes/tarjetas y emitir nuevas liquidaciones.
 
 ---
 
@@ -49,4 +51,6 @@ Para optimizar los tiempos de la cursada, quedan **excluidos** de este trabajo p
 * Temas de infraestructura como contenedores Docker o entornos LEMP avanzados.
 
 ---
-*¡Mucho éxito en el desarrollo! Ante cualquier duda o inconveniente técnico, recordá consultar en el foro de la materia o durante las clases presenciales.*
+*¡Mucho éxito en el desarrollo! Ante cualquier duda, recordá consultar vía Teams o durante las clases presenciales.*
+
+Osvaldo Cantone
