@@ -1,5 +1,9 @@
-﻿INTEGRANTES DEL GRUPO: ---RUIZ DIAZ JUAN IGNACIO LEGAJO: 15-28785
-                       ---ALAN INFANTE           LEGAGO: 15-34589
+﻿# 👥 Integrantes del Grupo
+
+| Nombre | Legajo |
+|--------|--------|
+| Ruiz Diaz Juan Ignacio | 15-28785 |
+| Alan Infante | 15-34589 |
 
 
 # UTN FRH Tecnicatura Universitaria en P rogramación #
